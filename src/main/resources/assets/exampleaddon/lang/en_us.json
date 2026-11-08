@@ -1,0 +1,17 @@
+{
+  "itemGroup.exampleaddon": "Example Mod Tab",
+  "block.exampleaddon.example_block": "Example Block",
+
+  "item.exampleaddon.thorium_gem": "Thorium Gem",
+  "entity.exampleaddon.thorium": "Thorium",
+
+  "exampleaddon.configuration.title": "ExampleAddon Configs",
+  "exampleaddon.configuration.section.exampladdon.common.toml": "ExampleAddon Configs",
+  "exampleaddon.configuration.section.exampladdon.common.toml.title": "ExampleAddon Configs",
+  "exampleaddon.configuration.items": "Item List",
+  "exampleaddon.configuration.logDirtBlock": "Log Dirt Block",
+  "exampleaddon.configuration.magicNumberIntroduction": "Magic Number Text",
+  "exampleaddon.configuration.magicNumber": "Magic Number",
+
+  "creativetab.exampleaddon.example_addon_tab": "Example Addon Tab"
+}
